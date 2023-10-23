@@ -1,4 +1,4 @@
-**CI** [![Build status](https://ci.appveyor.com/api/projects/status/9qdfms1sr1r3pnly?svg=true)](https://ci.appveyor.com/project/Dimafdr/ahj-events)
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/9qdfms1sr1r3pnly?svg=true)](https://ci.appveyor.com/project/Dimafdr/ahj-events)  [GitHub Pages](https://Dimafdr.github.io/ahj_events/)
 
 
 # Домашнее задание к занятию "3.Обработка событий"
